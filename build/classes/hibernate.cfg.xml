@@ -7,7 +7,7 @@
 		<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
 		<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/expense</property>
 		<property name="hibernate.connection.username">root</property>
-		<property name="hibernate.connection.password">#Pulkit_8456</property>
+		<property name="hibernate.connection.password">[insert password here]</property>
 		<mapping class="pojo.ExpenseDetails"></mapping>
 	</session-factory>
 </hibernate-configuration>
